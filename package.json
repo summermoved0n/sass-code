@@ -1,11 +1,11 @@
 {
-  "name": "starter-kit",
+  "name": "vite-sass-app-template",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/https://github.com/summermoved0n/sass-code/",
+    "build": "vite build --base=/vite-sass-app-template/",
     "preview": "vite preview",
     "watch": "npx vite build --watch"
   },

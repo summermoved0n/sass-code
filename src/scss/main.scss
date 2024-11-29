@@ -1,4 +1,9 @@
-@use "utilities";
-@use "base";
-@use "layout";
-@use "components";
+// @use "utilities";
+// @use "base";
+// @use "layout";
+// @use "components";
+
+@use "--examples--/lesson-05/variables";
+
+/* == END == */
+@use "--examples--/lesson-05/base";

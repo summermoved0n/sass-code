@@ -28,8 +28,8 @@ $status: (
   "active": #82c43c,
 );
 
-@each $status-text, $color in $status {
-  .badge-#{$status-text} {
+@each $name, $color in $status {
+  .badge-#{$name} {
     background-color: $color;
   }
 }

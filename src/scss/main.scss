@@ -16,7 +16,23 @@
 
 // @use "--examples--/lesson-09/extend";
 
-@use "--examples--/lesson-10/mixins";
+// @use "--examples--/lesson-10/mixins";
+// @use "--examples--/lesson-10/if";
+// @use "--examples--/lesson-10/for";
+// @use "--examples--/lesson-10/each";
+
+// @use "--examples--/lesson-11/decimal";
+// @use "--examples--/lesson-11/examples";
+// @use "--examples--/lesson-11/functions";
+// @use "--examples--/lesson-11/mixins";
+
+// @use "--examples--/lesson-12/list";
+
+// @use "--examples--/lesson-13/colors";
+// @use "--examples--/lesson-13/map";
+// @use "--examples--/lesson-13/alerts";
+
+@use "utilities/index";
 
 /* == END == */
 @use "--examples--/lesson-05/base";

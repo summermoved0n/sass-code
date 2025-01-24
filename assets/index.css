@@ -1,12 +1,3 @@
-.button {
-  background-color: white;
-  border: 1px solid darkblue;
-}
-.button:not([disabled]):hover {
-  color: white;
-  background-color: darkblue;
-}
-
 /* == END == */
 body {
   min-width: 100vw;
